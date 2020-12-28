@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 /* eslint-disable arrow-body-style */
 import { useCallback, useEffect, useReducer, useRef, useState } from 'react';
 import { apiGet } from './config';
